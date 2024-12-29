@@ -8,7 +8,7 @@ This VS Code extension helps you quickly create a basic project structure for **
 
 ## Installation
 
-1. **Download the `.vsix` file** from the [releases page](<link_to_your_release_page>).
+1. **Download the `.vsix` file** from the [releases page](<https://github.com/Khan-Ziaulhaq/Project-Structure-Generator/releases/tag/PSG>).
 2. Open **Visual Studio Code**.
 3. Go to the **Extensions** tab on the left sidebar.
 4. Click the three dots (⋮) at the top right of the Extensions panel.
