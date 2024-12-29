@@ -23,11 +23,6 @@ This VS Code extension helps you quickly create a basic project structure for **
 5. Type your desired folder name and press **Enter**.
 6. Your folder structure with **HTML**, **CSS**, and **JavaScript** files will be created!
 
-## Folder Structure Created
-- `index.html`
-- `style.css`
-- `script.js`
-
 ## Contribution
 
 Feel free to fork the repo, make changes, and open a pull request. Contributions are welcome!
